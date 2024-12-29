@@ -1,2 +1,1 @@
-# Audiopedia
-Audiopedia: Audio QA with Knowledge
+Will be updated soon.
