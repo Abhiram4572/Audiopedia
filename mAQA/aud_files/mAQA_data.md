@@ -1,0 +1,1 @@
+Download the audio files from [here](https://drive.google.com/file/d/1BVl1PpuTg36GsmrAEW_nYqNAMSZJKksP/view?usp=share_link) and extract according to the structure mentioned in the main [README.md](https://github.com/Abhiram4572/Audiopedia/blob/main/README.md).

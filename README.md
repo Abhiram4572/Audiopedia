@@ -19,10 +19,10 @@ This repository contains two knowledge-intensive audio question answering datase
 ### sAQA Format
 ```json
 {
-    "audio_file": "sqa/aud_files/sentence_id.wav",
-    "question": question,
-    "id": ques_id,
-    "answer": answer
+    "audio_file": "sAQA/aud_files/sentence_id.wav",
+    "question": "question",
+    "id": "ques_id",
+    "answer": "answer"
 }
 ```
 
@@ -30,12 +30,12 @@ This repository contains two knowledge-intensive audio question answering datase
 ```json
 {
     "audio_files": [
-        "sqa/aud_files/sentence_id_0.wav",
-        "sqa/aud_files/sentence_id_1.wav"
+        "mAQA/aud_files/sentence_id_0.wav",
+        "mAQA/aud_files/sentence_id_1.wav"
     ],
-    "question": question,
-    "id": ques_id,
-    "answer": answer
+    "question": "question",
+    "id": "ques_id",
+    "answer": "answer"
 }
 ```
 
@@ -55,17 +55,17 @@ audiopedia/
 
 
 ## Audio Files
-- **Format**: WAV
-- **Generation**: Tacotron 2 text-to-speech model
-- **Naming convention**: `sentence_id.wav`
 - **sAQA audio files**: [<u>Link</u>](https://drive.google.com/file/d/1Oz_c0acc7wr7ljK6UVskSyFaPcE3ltIn/view?usp=share_link).
+- **mAQA audio files**: [<u>Link</u>](https://drive.google.com/file/d/1BVl1PpuTg36GsmrAEW_nYqNAMSZJKksP/view?usp=share_link).
+- **Format**: WAV
+- **Generation**: Tacotron 2 text-to-speech model.
 
 
 ## Limitations
-- Each audio sample contains only one named entity mention
-- All mentioned entities are in English
-- Less than 5% of samples may contain noise
-- Dataset is synthetic in nature
+- Each audio sample contains only one named entity mention.
+- All mentioned entities are in English.
+- Less than 5% of samples may contain noise.
+- Dataset is synthetic in nature.
 
 ## Citation
 ```
