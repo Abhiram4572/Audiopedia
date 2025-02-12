@@ -1,0 +1,2873 @@
+[
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_0_0.wav",
+            "mAQA/aud_files/Sentence_0_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 0,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_1_0.wav",
+            "mAQA/aud_files/Sentence_1_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 1,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_2_0.wav",
+            "mAQA/aud_files/Sentence_2_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 2,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_3_0.wav",
+            "mAQA/aud_files/Sentence_3_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 3,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_4_0.wav",
+            "mAQA/aud_files/Sentence_4_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 4,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_5_0.wav",
+            "mAQA/aud_files/Sentence_5_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 5,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_6_0.wav",
+            "mAQA/aud_files/Sentence_6_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 6,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_7_0.wav",
+            "mAQA/aud_files/Sentence_7_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 7,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_8_0.wav",
+            "mAQA/aud_files/Sentence_8_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 8,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_9_0.wav",
+            "mAQA/aud_files/Sentence_9_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 9,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_10_0.wav",
+            "mAQA/aud_files/Sentence_10_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 10,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_11_0.wav",
+            "mAQA/aud_files/Sentence_11_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 11,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_12_0.wav",
+            "mAQA/aud_files/Sentence_12_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 12,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_13_0.wav",
+            "mAQA/aud_files/Sentence_13_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 13,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_14_0.wav",
+            "mAQA/aud_files/Sentence_14_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 14,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_15_0.wav",
+            "mAQA/aud_files/Sentence_15_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 15,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_16_0.wav",
+            "mAQA/aud_files/Sentence_16_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 16,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_17_0.wav",
+            "mAQA/aud_files/Sentence_17_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 17,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_18_0.wav",
+            "mAQA/aud_files/Sentence_18_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 18,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_19_0.wav",
+            "mAQA/aud_files/Sentence_19_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 19,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_20_0.wav",
+            "mAQA/aud_files/Sentence_20_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 20,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_21_0.wav",
+            "mAQA/aud_files/Sentence_21_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 21,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_22_0.wav",
+            "mAQA/aud_files/Sentence_22_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 22,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_23_0.wav",
+            "mAQA/aud_files/Sentence_23_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 23,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_24_0.wav",
+            "mAQA/aud_files/Sentence_24_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 24,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_25_0.wav",
+            "mAQA/aud_files/Sentence_25_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 25,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_26_0.wav",
+            "mAQA/aud_files/Sentence_26_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 26,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_27_0.wav",
+            "mAQA/aud_files/Sentence_27_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 27,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_28_0.wav",
+            "mAQA/aud_files/Sentence_28_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 28,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_29_0.wav",
+            "mAQA/aud_files/Sentence_29_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 29,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_30_0.wav",
+            "mAQA/aud_files/Sentence_30_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 30,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_31_0.wav",
+            "mAQA/aud_files/Sentence_31_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 31,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_32_0.wav",
+            "mAQA/aud_files/Sentence_32_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 32,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_33_0.wav",
+            "mAQA/aud_files/Sentence_33_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 33,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_34_0.wav",
+            "mAQA/aud_files/Sentence_34_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 34,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_35_0.wav",
+            "mAQA/aud_files/Sentence_35_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 35,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_36_0.wav",
+            "mAQA/aud_files/Sentence_36_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 36,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_37_0.wav",
+            "mAQA/aud_files/Sentence_37_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 37,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_38_0.wav",
+            "mAQA/aud_files/Sentence_38_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 38,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_39_0.wav",
+            "mAQA/aud_files/Sentence_39_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 39,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_40_0.wav",
+            "mAQA/aud_files/Sentence_40_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 40,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_41_0.wav",
+            "mAQA/aud_files/Sentence_41_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 41,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_42_0.wav",
+            "mAQA/aud_files/Sentence_42_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 42,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_43_0.wav",
+            "mAQA/aud_files/Sentence_43_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 43,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_44_0.wav",
+            "mAQA/aud_files/Sentence_44_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 44,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_45_0.wav",
+            "mAQA/aud_files/Sentence_45_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 45,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_46_0.wav",
+            "mAQA/aud_files/Sentence_46_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 46,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_47_0.wav",
+            "mAQA/aud_files/Sentence_47_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 47,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_48_0.wav",
+            "mAQA/aud_files/Sentence_48_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 48,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_49_0.wav",
+            "mAQA/aud_files/Sentence_49_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 49,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_50_0.wav",
+            "mAQA/aud_files/Sentence_50_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 50,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_51_0.wav",
+            "mAQA/aud_files/Sentence_51_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 51,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_52_0.wav",
+            "mAQA/aud_files/Sentence_52_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 52,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_53_0.wav",
+            "mAQA/aud_files/Sentence_53_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 53,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_54_0.wav",
+            "mAQA/aud_files/Sentence_54_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 54,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_55_0.wav",
+            "mAQA/aud_files/Sentence_55_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 55,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_56_0.wav",
+            "mAQA/aud_files/Sentence_56_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 56,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_57_0.wav",
+            "mAQA/aud_files/Sentence_57_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 57,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_58_0.wav",
+            "mAQA/aud_files/Sentence_58_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 58,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_59_0.wav",
+            "mAQA/aud_files/Sentence_59_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 59,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_60_0.wav",
+            "mAQA/aud_files/Sentence_60_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 60,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_61_0.wav",
+            "mAQA/aud_files/Sentence_61_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 61,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_62_0.wav",
+            "mAQA/aud_files/Sentence_62_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 62,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_63_0.wav",
+            "mAQA/aud_files/Sentence_63_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 63,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_64_0.wav",
+            "mAQA/aud_files/Sentence_64_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 64,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_65_0.wav",
+            "mAQA/aud_files/Sentence_65_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 65,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_66_0.wav",
+            "mAQA/aud_files/Sentence_66_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 66,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_67_0.wav",
+            "mAQA/aud_files/Sentence_67_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 67,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_68_0.wav",
+            "mAQA/aud_files/Sentence_68_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 68,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_69_0.wav",
+            "mAQA/aud_files/Sentence_69_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 69,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_70_0.wav",
+            "mAQA/aud_files/Sentence_70_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 70,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_71_0.wav",
+            "mAQA/aud_files/Sentence_71_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 71,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_72_0.wav",
+            "mAQA/aud_files/Sentence_72_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 72,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_73_0.wav",
+            "mAQA/aud_files/Sentence_73_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 73,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_74_0.wav",
+            "mAQA/aud_files/Sentence_74_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 74,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_75_0.wav",
+            "mAQA/aud_files/Sentence_75_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 75,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_76_0.wav",
+            "mAQA/aud_files/Sentence_76_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 76,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_77_0.wav",
+            "mAQA/aud_files/Sentence_77_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 77,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_78_0.wav",
+            "mAQA/aud_files/Sentence_78_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 78,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_79_0.wav",
+            "mAQA/aud_files/Sentence_79_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 79,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_80_0.wav",
+            "mAQA/aud_files/Sentence_80_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 80,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_81_0.wav",
+            "mAQA/aud_files/Sentence_81_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 81,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_82_0.wav",
+            "mAQA/aud_files/Sentence_82_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 82,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_83_0.wav",
+            "mAQA/aud_files/Sentence_83_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 83,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_84_0.wav",
+            "mAQA/aud_files/Sentence_84_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 84,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_85_0.wav",
+            "mAQA/aud_files/Sentence_85_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 85,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_86_0.wav",
+            "mAQA/aud_files/Sentence_86_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 86,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_87_0.wav",
+            "mAQA/aud_files/Sentence_87_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 87,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_88_0.wav",
+            "mAQA/aud_files/Sentence_88_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 88,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_89_0.wav",
+            "mAQA/aud_files/Sentence_89_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 89,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_90_0.wav",
+            "mAQA/aud_files/Sentence_90_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 90,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_91_0.wav",
+            "mAQA/aud_files/Sentence_91_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 91,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_92_0.wav",
+            "mAQA/aud_files/Sentence_92_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 92,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_93_0.wav",
+            "mAQA/aud_files/Sentence_93_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 93,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_94_0.wav",
+            "mAQA/aud_files/Sentence_94_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 94,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_95_0.wav",
+            "mAQA/aud_files/Sentence_95_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 95,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_96_0.wav",
+            "mAQA/aud_files/Sentence_96_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 96,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_97_0.wav",
+            "mAQA/aud_files/Sentence_97_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 97,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_98_0.wav",
+            "mAQA/aud_files/Sentence_98_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 98,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_99_0.wav",
+            "mAQA/aud_files/Sentence_99_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 99,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_100_0.wav",
+            "mAQA/aud_files/Sentence_100_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 100,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_101_0.wav",
+            "mAQA/aud_files/Sentence_101_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 101,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_102_0.wav",
+            "mAQA/aud_files/Sentence_102_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 102,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_103_0.wav",
+            "mAQA/aud_files/Sentence_103_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 103,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_104_0.wav",
+            "mAQA/aud_files/Sentence_104_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 104,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_105_0.wav",
+            "mAQA/aud_files/Sentence_105_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 105,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_106_0.wav",
+            "mAQA/aud_files/Sentence_106_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 106,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_107_0.wav",
+            "mAQA/aud_files/Sentence_107_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 107,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_108_0.wav",
+            "mAQA/aud_files/Sentence_108_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 108,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_109_0.wav",
+            "mAQA/aud_files/Sentence_109_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 109,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_110_0.wav",
+            "mAQA/aud_files/Sentence_110_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 110,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_111_0.wav",
+            "mAQA/aud_files/Sentence_111_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 111,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_112_0.wav",
+            "mAQA/aud_files/Sentence_112_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 112,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_113_0.wav",
+            "mAQA/aud_files/Sentence_113_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 113,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_114_0.wav",
+            "mAQA/aud_files/Sentence_114_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 114,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_115_0.wav",
+            "mAQA/aud_files/Sentence_115_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 115,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_116_0.wav",
+            "mAQA/aud_files/Sentence_116_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 116,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_117_0.wav",
+            "mAQA/aud_files/Sentence_117_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 117,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_118_0.wav",
+            "mAQA/aud_files/Sentence_118_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 118,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_119_0.wav",
+            "mAQA/aud_files/Sentence_119_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 119,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_120_0.wav",
+            "mAQA/aud_files/Sentence_120_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 120,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_121_0.wav",
+            "mAQA/aud_files/Sentence_121_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 121,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_122_0.wav",
+            "mAQA/aud_files/Sentence_122_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 122,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_123_0.wav",
+            "mAQA/aud_files/Sentence_123_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 123,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_124_0.wav",
+            "mAQA/aud_files/Sentence_124_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 124,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_125_0.wav",
+            "mAQA/aud_files/Sentence_125_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 125,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_126_0.wav",
+            "mAQA/aud_files/Sentence_126_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 126,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_127_0.wav",
+            "mAQA/aud_files/Sentence_127_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 127,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_128_0.wav",
+            "mAQA/aud_files/Sentence_128_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 128,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_129_0.wav",
+            "mAQA/aud_files/Sentence_129_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 129,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_130_0.wav",
+            "mAQA/aud_files/Sentence_130_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 130,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_131_0.wav",
+            "mAQA/aud_files/Sentence_131_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 131,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_132_0.wav",
+            "mAQA/aud_files/Sentence_132_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 132,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_133_0.wav",
+            "mAQA/aud_files/Sentence_133_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 133,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_134_0.wav",
+            "mAQA/aud_files/Sentence_134_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 134,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_135_0.wav",
+            "mAQA/aud_files/Sentence_135_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 135,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_136_0.wav",
+            "mAQA/aud_files/Sentence_136_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 136,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_137_0.wav",
+            "mAQA/aud_files/Sentence_137_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 137,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_138_0.wav",
+            "mAQA/aud_files/Sentence_138_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 138,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_139_0.wav",
+            "mAQA/aud_files/Sentence_139_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 139,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_140_0.wav",
+            "mAQA/aud_files/Sentence_140_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 140,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_141_0.wav",
+            "mAQA/aud_files/Sentence_141_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 141,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_142_0.wav",
+            "mAQA/aud_files/Sentence_142_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 142,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_143_0.wav",
+            "mAQA/aud_files/Sentence_143_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 143,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_144_0.wav",
+            "mAQA/aud_files/Sentence_144_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 144,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_145_0.wav",
+            "mAQA/aud_files/Sentence_145_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 145,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_146_0.wav",
+            "mAQA/aud_files/Sentence_146_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 146,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_147_0.wav",
+            "mAQA/aud_files/Sentence_147_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 147,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_148_0.wav",
+            "mAQA/aud_files/Sentence_148_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 148,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_149_0.wav",
+            "mAQA/aud_files/Sentence_149_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 149,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_150_0.wav",
+            "mAQA/aud_files/Sentence_150_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 150,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_151_0.wav",
+            "mAQA/aud_files/Sentence_151_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 151,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_152_0.wav",
+            "mAQA/aud_files/Sentence_152_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 152,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_153_0.wav",
+            "mAQA/aud_files/Sentence_153_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 153,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_154_0.wav",
+            "mAQA/aud_files/Sentence_154_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 154,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_155_0.wav",
+            "mAQA/aud_files/Sentence_155_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 155,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_156_0.wav",
+            "mAQA/aud_files/Sentence_156_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 156,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_157_0.wav",
+            "mAQA/aud_files/Sentence_157_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 157,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_158_0.wav",
+            "mAQA/aud_files/Sentence_158_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 158,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_159_0.wav",
+            "mAQA/aud_files/Sentence_159_1.wav"
+        ],
+        "question": "Are these established in the same decade?",
+        "id": 159,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_165_0.wav",
+            "mAQA/aud_files/Sentence_165_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 160,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_169_0.wav",
+            "mAQA/aud_files/Sentence_169_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 161,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_171_0.wav",
+            "mAQA/aud_files/Sentence_171_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 162,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_172_0.wav",
+            "mAQA/aud_files/Sentence_172_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 163,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_173_0.wav",
+            "mAQA/aud_files/Sentence_173_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 164,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_176_0.wav",
+            "mAQA/aud_files/Sentence_176_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 165,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_178_0.wav",
+            "mAQA/aud_files/Sentence_178_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 166,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_179_0.wav",
+            "mAQA/aud_files/Sentence_179_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 167,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_180_0.wav",
+            "mAQA/aud_files/Sentence_180_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 168,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_183_0.wav",
+            "mAQA/aud_files/Sentence_183_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 169,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_184_0.wav",
+            "mAQA/aud_files/Sentence_184_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 170,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_186_0.wav",
+            "mAQA/aud_files/Sentence_186_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 171,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_187_0.wav",
+            "mAQA/aud_files/Sentence_187_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 172,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_188_0.wav",
+            "mAQA/aud_files/Sentence_188_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 173,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_189_0.wav",
+            "mAQA/aud_files/Sentence_189_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 174,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_190_0.wav",
+            "mAQA/aud_files/Sentence_190_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 175,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_191_0.wav",
+            "mAQA/aud_files/Sentence_191_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 176,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_192_0.wav",
+            "mAQA/aud_files/Sentence_192_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 177,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_196_0.wav",
+            "mAQA/aud_files/Sentence_196_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 178,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_197_0.wav",
+            "mAQA/aud_files/Sentence_197_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 179,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_200_0.wav",
+            "mAQA/aud_files/Sentence_200_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 180,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_201_0.wav",
+            "mAQA/aud_files/Sentence_201_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 181,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_203_0.wav",
+            "mAQA/aud_files/Sentence_203_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 182,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_204_0.wav",
+            "mAQA/aud_files/Sentence_204_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 183,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_208_0.wav",
+            "mAQA/aud_files/Sentence_208_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 184,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_209_0.wav",
+            "mAQA/aud_files/Sentence_209_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 185,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_210_0.wav",
+            "mAQA/aud_files/Sentence_210_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 186,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_211_0.wav",
+            "mAQA/aud_files/Sentence_211_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 187,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_215_0.wav",
+            "mAQA/aud_files/Sentence_215_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 188,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_219_0.wav",
+            "mAQA/aud_files/Sentence_219_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 189,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_220_0.wav",
+            "mAQA/aud_files/Sentence_220_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 190,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_221_0.wav",
+            "mAQA/aud_files/Sentence_221_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 191,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_223_0.wav",
+            "mAQA/aud_files/Sentence_223_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 192,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_224_0.wav",
+            "mAQA/aud_files/Sentence_224_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 193,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_226_0.wav",
+            "mAQA/aud_files/Sentence_226_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 194,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_228_0.wav",
+            "mAQA/aud_files/Sentence_228_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 195,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_231_0.wav",
+            "mAQA/aud_files/Sentence_231_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 196,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_232_0.wav",
+            "mAQA/aud_files/Sentence_232_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 197,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_233_0.wav",
+            "mAQA/aud_files/Sentence_233_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 198,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_237_0.wav",
+            "mAQA/aud_files/Sentence_237_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 199,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_238_0.wav",
+            "mAQA/aud_files/Sentence_238_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 200,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_239_0.wav",
+            "mAQA/aud_files/Sentence_239_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 201,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_242_0.wav",
+            "mAQA/aud_files/Sentence_242_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 202,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_244_0.wav",
+            "mAQA/aud_files/Sentence_244_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 203,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_248_0.wav",
+            "mAQA/aud_files/Sentence_248_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 204,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_251_0.wav",
+            "mAQA/aud_files/Sentence_251_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 205,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_256_0.wav",
+            "mAQA/aud_files/Sentence_256_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 206,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_257_0.wav",
+            "mAQA/aud_files/Sentence_257_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 207,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_258_0.wav",
+            "mAQA/aud_files/Sentence_258_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 208,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_259_0.wav",
+            "mAQA/aud_files/Sentence_259_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 209,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_263_0.wav",
+            "mAQA/aud_files/Sentence_263_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 210,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_267_0.wav",
+            "mAQA/aud_files/Sentence_267_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 211,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_270_0.wav",
+            "mAQA/aud_files/Sentence_270_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 212,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_272_0.wav",
+            "mAQA/aud_files/Sentence_272_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 213,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_273_0.wav",
+            "mAQA/aud_files/Sentence_273_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 214,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_275_0.wav",
+            "mAQA/aud_files/Sentence_275_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 215,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_276_0.wav",
+            "mAQA/aud_files/Sentence_276_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 216,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_279_0.wav",
+            "mAQA/aud_files/Sentence_279_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 217,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_281_0.wav",
+            "mAQA/aud_files/Sentence_281_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 218,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_282_0.wav",
+            "mAQA/aud_files/Sentence_282_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 219,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_284_0.wav",
+            "mAQA/aud_files/Sentence_284_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 220,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_285_0.wav",
+            "mAQA/aud_files/Sentence_285_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 221,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_287_0.wav",
+            "mAQA/aud_files/Sentence_287_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 222,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_292_0.wav",
+            "mAQA/aud_files/Sentence_292_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 223,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_293_0.wav",
+            "mAQA/aud_files/Sentence_293_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 224,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_294_0.wav",
+            "mAQA/aud_files/Sentence_294_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 225,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_295_0.wav",
+            "mAQA/aud_files/Sentence_295_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 226,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_296_0.wav",
+            "mAQA/aud_files/Sentence_296_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 227,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_297_0.wav",
+            "mAQA/aud_files/Sentence_297_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 228,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_300_0.wav",
+            "mAQA/aud_files/Sentence_300_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 229,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_302_0.wav",
+            "mAQA/aud_files/Sentence_302_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 230,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_304_0.wav",
+            "mAQA/aud_files/Sentence_304_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 231,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_313_0.wav",
+            "mAQA/aud_files/Sentence_313_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 232,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_315_0.wav",
+            "mAQA/aud_files/Sentence_315_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 233,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_317_0.wav",
+            "mAQA/aud_files/Sentence_317_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 234,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_318_0.wav",
+            "mAQA/aud_files/Sentence_318_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 235,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_324_0.wav",
+            "mAQA/aud_files/Sentence_324_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 236,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_325_0.wav",
+            "mAQA/aud_files/Sentence_325_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 237,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_328_0.wav",
+            "mAQA/aud_files/Sentence_328_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 238,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_332_0.wav",
+            "mAQA/aud_files/Sentence_332_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 239,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_333_0.wav",
+            "mAQA/aud_files/Sentence_333_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 240,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_334_0.wav",
+            "mAQA/aud_files/Sentence_334_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 241,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_335_0.wav",
+            "mAQA/aud_files/Sentence_335_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 242,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_336_0.wav",
+            "mAQA/aud_files/Sentence_336_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 243,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_343_0.wav",
+            "mAQA/aud_files/Sentence_343_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 244,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_345_0.wav",
+            "mAQA/aud_files/Sentence_345_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 245,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_346_0.wav",
+            "mAQA/aud_files/Sentence_346_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 246,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_349_0.wav",
+            "mAQA/aud_files/Sentence_349_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 247,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_350_0.wav",
+            "mAQA/aud_files/Sentence_350_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 248,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_351_0.wav",
+            "mAQA/aud_files/Sentence_351_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 249,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_352_0.wav",
+            "mAQA/aud_files/Sentence_352_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 250,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_356_0.wav",
+            "mAQA/aud_files/Sentence_356_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 251,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_357_0.wav",
+            "mAQA/aud_files/Sentence_357_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 252,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_362_0.wav",
+            "mAQA/aud_files/Sentence_362_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 253,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_364_0.wav",
+            "mAQA/aud_files/Sentence_364_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 254,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_365_0.wav",
+            "mAQA/aud_files/Sentence_365_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 255,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_366_0.wav",
+            "mAQA/aud_files/Sentence_366_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 256,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_369_0.wav",
+            "mAQA/aud_files/Sentence_369_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 257,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_370_0.wav",
+            "mAQA/aud_files/Sentence_370_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 258,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_372_0.wav",
+            "mAQA/aud_files/Sentence_372_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 259,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_373_0.wav",
+            "mAQA/aud_files/Sentence_373_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 260,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_374_0.wav",
+            "mAQA/aud_files/Sentence_374_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 261,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_376_0.wav",
+            "mAQA/aud_files/Sentence_376_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 262,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_377_0.wav",
+            "mAQA/aud_files/Sentence_377_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 263,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_383_0.wav",
+            "mAQA/aud_files/Sentence_383_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 264,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_385_0.wav",
+            "mAQA/aud_files/Sentence_385_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 265,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_390_0.wav",
+            "mAQA/aud_files/Sentence_390_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 266,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_391_0.wav",
+            "mAQA/aud_files/Sentence_391_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 267,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_392_0.wav",
+            "mAQA/aud_files/Sentence_392_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 268,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_394_0.wav",
+            "mAQA/aud_files/Sentence_394_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 269,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_395_0.wav",
+            "mAQA/aud_files/Sentence_395_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 270,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_396_0.wav",
+            "mAQA/aud_files/Sentence_396_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 271,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_398_0.wav",
+            "mAQA/aud_files/Sentence_398_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 272,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_399_0.wav",
+            "mAQA/aud_files/Sentence_399_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 273,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_400_0.wav",
+            "mAQA/aud_files/Sentence_400_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 274,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_402_0.wav",
+            "mAQA/aud_files/Sentence_402_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 275,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_403_0.wav",
+            "mAQA/aud_files/Sentence_403_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 276,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_404_0.wav",
+            "mAQA/aud_files/Sentence_404_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 277,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_405_0.wav",
+            "mAQA/aud_files/Sentence_405_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 278,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_407_0.wav",
+            "mAQA/aud_files/Sentence_407_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 279,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_409_0.wav",
+            "mAQA/aud_files/Sentence_409_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 280,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_411_0.wav",
+            "mAQA/aud_files/Sentence_411_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 281,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_413_0.wav",
+            "mAQA/aud_files/Sentence_413_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 282,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_414_0.wav",
+            "mAQA/aud_files/Sentence_414_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 283,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_415_0.wav",
+            "mAQA/aud_files/Sentence_415_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 284,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_416_0.wav",
+            "mAQA/aud_files/Sentence_416_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 285,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_420_0.wav",
+            "mAQA/aud_files/Sentence_420_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 286,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_422_0.wav",
+            "mAQA/aud_files/Sentence_422_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 287,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_424_0.wav",
+            "mAQA/aud_files/Sentence_424_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 288,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_426_0.wav",
+            "mAQA/aud_files/Sentence_426_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 289,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_428_0.wav",
+            "mAQA/aud_files/Sentence_428_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 290,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_430_0.wav",
+            "mAQA/aud_files/Sentence_430_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 291,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_431_0.wav",
+            "mAQA/aud_files/Sentence_431_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 292,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_432_0.wav",
+            "mAQA/aud_files/Sentence_432_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 293,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_437_0.wav",
+            "mAQA/aud_files/Sentence_437_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 294,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_439_0.wav",
+            "mAQA/aud_files/Sentence_439_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 295,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_440_0.wav",
+            "mAQA/aud_files/Sentence_440_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 296,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_446_0.wav",
+            "mAQA/aud_files/Sentence_446_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 297,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_451_0.wav",
+            "mAQA/aud_files/Sentence_451_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 298,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_452_0.wav",
+            "mAQA/aud_files/Sentence_452_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 299,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_456_0.wav",
+            "mAQA/aud_files/Sentence_456_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 300,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_459_0.wav",
+            "mAQA/aud_files/Sentence_459_1.wav"
+        ],
+        "question": "Do they have the headquarters in the same city?",
+        "id": 301,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_460_0.wav",
+            "mAQA/aud_files/Sentence_460_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 302,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_461_0.wav",
+            "mAQA/aud_files/Sentence_461_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 303,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_462_0.wav",
+            "mAQA/aud_files/Sentence_462_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 304,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_464_0.wav",
+            "mAQA/aud_files/Sentence_464_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 305,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_467_0.wav",
+            "mAQA/aud_files/Sentence_467_1.wav"
+        ],
+        "question": "Are these british restaurants?",
+        "id": 306,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_469_0.wav",
+            "mAQA/aud_files/Sentence_469_1.wav"
+        ],
+        "question": "Are these british restaurants?",
+        "id": 307,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_470_0.wav",
+            "mAQA/aud_files/Sentence_470_1.wav"
+        ],
+        "question": "Are these american restaurants?",
+        "id": 308,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_471_0.wav",
+            "mAQA/aud_files/Sentence_471_1.wav"
+        ],
+        "question": "Are these american restaurants?",
+        "id": 309,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_472_0.wav",
+            "mAQA/aud_files/Sentence_472_1.wav"
+        ],
+        "question": "Are these american restaurants?",
+        "id": 310,
+        "answer": "Yes"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_475_0.wav",
+            "mAQA/aud_files/Sentence_475_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 311,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_478_0.wav",
+            "mAQA/aud_files/Sentence_478_1.wav"
+        ],
+        "question": "Are these japanese restaurants?",
+        "id": 312,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_480_0.wav",
+            "mAQA/aud_files/Sentence_480_1.wav"
+        ],
+        "question": "Are these british restaurants?",
+        "id": 313,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_481_0.wav",
+            "mAQA/aud_files/Sentence_481_1.wav"
+        ],
+        "question": "Are these british restaurants?",
+        "id": 314,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_485_0.wav",
+            "mAQA/aud_files/Sentence_485_1.wav"
+        ],
+        "question": "Are these american restaurants?",
+        "id": 315,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_493_0.wav",
+            "mAQA/aud_files/Sentence_493_1.wav"
+        ],
+        "question": "Are these swedish restaurants?",
+        "id": 316,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_494_0.wav",
+            "mAQA/aud_files/Sentence_494_1.wav"
+        ],
+        "question": "Are these swedish restaurants?",
+        "id": 317,
+        "answer": "No"
+    },
+    {
+        "audio_files": [
+            "mAQA/aud_files/Sentence_498_0.wav",
+            "mAQA/aud_files/Sentence_498_1.wav"
+        ],
+        "question": "Are these greek restaurants?",
+        "id": 318,
+        "answer": "No"
+    }
+]
