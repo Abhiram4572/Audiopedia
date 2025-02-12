@@ -20,9 +20,9 @@ This repository contains two knowledge-intensive audio question answering datase
 ```json
 {
     "audio_file": "sqa/aud_files/sentence_id.wav",
-    "question": #question,
-    "id": #ques_id,
-    "answer": #answer
+    "question": question,
+    "id": ques_id,
+    "answer": answer
 }
 ```
 
@@ -33,9 +33,9 @@ This repository contains two knowledge-intensive audio question answering datase
         "sqa/aud_files/sentence_id_0.wav",
         "sqa/aud_files/sentence_id_1.wav"
     ],
-    "question": #question,
-    "id": #ques_id,
-    "answer": #answer
+    "question": question,
+    "id": ques_id,
+    "answer": answer
 }
 ```
 
