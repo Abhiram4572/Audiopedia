@@ -69,16 +69,16 @@ audiopedia/
 
 ## Citation
 ```
-@INPROCEEDINGS{10889814,
+@INPROCEEDINGS{
+  10889814,
   author={Penamakuri, Abhirama Subramanyam and Chhatre, Kiran and Jain, Akshat},
   booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Audiopedia: Audio QA with Knowledge}, 
   year={2025},
-  volume={},
-  number={},
   pages={1-5},
   keywords={Adaptation models;Benchmark testing;Signal processing;Question answering (information retrieval);Cognition;Acoustics;Speech processing;audio question answering;knowledge-intensive questions;audio entity linking},
-  doi={10.1109/ICASSP49660.2025.10889814}}
+  doi={10.1109/ICASSP49660.2025.10889814}
+}
 
 ```
 
